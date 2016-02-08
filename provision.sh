@@ -10,5 +10,6 @@ cd volatility
 python setup.py build
 python setup.py install
 
-cd ~
+cd /home/vagrant
 git clone https://github.com/volatilityfoundation/profiles.git
+chown -R vagrant:vagrant /home/vagrant
