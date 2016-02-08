@@ -1,0 +1,9 @@
+Vagrant setup for volatility
+
+includes profiles, Vagrantfile works but needs a few adjustments
+
+TODO
+
+* Finish this README
+* comment provision.sh
+* fix Vagrantfile
